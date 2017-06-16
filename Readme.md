@@ -17,6 +17,6 @@
 
 ***  
  > 原jar的地址:  http://jsptags.com/tags/navigation/pager/  
-
+ > 可惜,它现已失效 。。。 
 
 --EOF--
