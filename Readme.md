@@ -1,6 +1,7 @@
 # 解决旧有pager-taglib.jar乱码问题
      
-*** 解决pager-taglib-2.0.jar 分页的中文乱码问题  
+***  
+解决pager-taglib-2.0.jar 分页的中文乱码问题   
   
 
 |--jar  
@@ -13,6 +14,9 @@
  ---|---含war包和源码，以及war的说明文件。  
 
 
+
+***  
+ > 原jar的地址:  http://jsptags.com/tags/navigation/pager/  
 
 
 --EOF--
