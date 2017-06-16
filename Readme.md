@@ -1,4 +1,6 @@
-#解决旧有 pager-taglib.jar  (pager-taglib-2.0.jar) 分页的中文乱码问题 #
+# 解决旧有pager-taglib.jar乱码问题
+     
+*** 解决pager-taglib-2.0.jar 分页的中文乱码问题  
   
 
 |--jar  
